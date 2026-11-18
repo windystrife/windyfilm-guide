@@ -4,4 +4,8 @@ The built user guide for WindyFilm, a Magic Lantern module that gives the Canon 
 
 Live page: https://windystrife.github.io/windyfilm-guide/
 
-This repository holds only the built page (`index.html`) and its rendered images (`img/`). All sample images are renders of the project owner's sample roll; no RAW files, LUT cubes or film tables are included.
+Manual (PDF, RAWB27 cards):
+- Tiếng Việt: [pdf/WindyFilm_HuongDan.pdf](pdf/WindyFilm_HuongDan.pdf)
+- English: [pdf/WindyFilm_Manual_EN.pdf](pdf/WindyFilm_Manual_EN.pdf)
+
+This repository holds only the built page (`index.html`), its rendered images (`img/`) and the manual PDFs (`pdf/`). All sample images are renders of the project owner's sample roll; no RAW files, LUT cubes or film tables are included.
